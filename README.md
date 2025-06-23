@@ -16,8 +16,8 @@ The codebase is organized into multiple Jupyter notebooks, categorized by the re
 
 ## Data Availability
 
-Due to several factors, the full dataset used in this project is **not included** in this repository:
+Due to several factors, the full dataset used in this project is **not included** in this repository but it **can** be obtained upon request. Please contact my ING supervisor directly for access.
 
 * **Size:** The initial raw data is exceptionally large, amounting to several gigabytes per day over a 28-day period. The final filtered and processed DataFrame alone is approximately 10 GB.
 
-* **Commercial data:** The data was purchased by my ING supervisor from a paid platform (https://tardis.dev/#pricing). If you require access to the data, please contact my ING supervisor directly.
+* **Commercial data:** The data was purchased by my ING supervisor from a paid platform (https://tardis.dev/#pricing). 
